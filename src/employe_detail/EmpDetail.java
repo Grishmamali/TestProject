@@ -9,7 +9,7 @@ public class EmpDetail {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.println("Test 123");
+		System.out.println("Test 123 556");
 		
 		 Employee e1= new  Employee();// creating new object for class Employee
 		 e1.setEmp_id(1);
